@@ -1,4 +1,4 @@
-clojure-python is a library for Jython interop in Clojure.
+Jython是Clojure编译为Python的钥匙: clojure-python is a library for Jython interop in Clojure.
 
 Overview
 ========
